@@ -1,0 +1,6 @@
+/.idea/
+/mobile/.idea/
+/mobile/android/
+/mobile/node_modules/
+/rest-api/.idea/
+/rest-api/target/
